@@ -17,6 +17,7 @@
   * [Usage](#usage)
   * [Contribution](#contribution)
   * [License](#license)
+  * [Technology](#technology)
   ## Installation
   
   App is deployed to git hub pages. Nothing needs to be installed. If you wish to contribute, just clone the repo.
@@ -25,6 +26,11 @@
   ## Usage
   
   Follow the prompts given on the browser. Refer to description for more information.
+  
+  ## Technology
+   * HTMl
+   * CSS
+   * JavaScript
   
   
   ## Contribution
