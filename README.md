@@ -28,7 +28,7 @@
   Follow the prompts given on the browser. Refer to description for more information.
   
   ## Technology
-   * HTMl
+   * HTML
    * CSS
    * JavaScript
   
